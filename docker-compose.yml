@@ -1,7 +1,7 @@
 version: '2.4'
 services:
  apache:
-   image: 'lenaleu/r-d-01'
+   image: 'grimleng/r-d-01'
    ports:
    - '80:80'
    volumes:
